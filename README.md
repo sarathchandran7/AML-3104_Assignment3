@@ -1,9 +1,9 @@
 # AML-3104_Assignment3
 
-##Assignment on Decision Tree\
+##Assignment on Decision Tree
 
-Q1. Describe the decision tree classifier algorithm and how it works to make predictions.
-Q2. Provide a step-by-step explanation of the mathematical intuition behind decision tree classification.
+Q1. Describe the decision tree classifier algorithm and how it works to make predictions.\
+Q2. Provide a step-by-step explanation of the mathematical intuition behind decision tree classification.\
 Q3. Explain how a decision tree classifier can be used to solve a binary classification problem.
 Q4. Discuss the geometric intuition behind decision tree classification and how it can be used to make predictions.
 Q5. Define the confusion matrix and describe how it can be used to evaluate the performance of a classification model.
